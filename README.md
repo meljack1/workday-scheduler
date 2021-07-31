@@ -13,3 +13,6 @@ https://meljack1.github.io/workday-scheduler/
 Header photo by [Windows](https://unsplash.com/@windows?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on
 [Unsplash](https://unsplash.com/t/business-work?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText).
   
+## Licence
+
+This application is licenced with an [MIT Licence](./LICENSE)
